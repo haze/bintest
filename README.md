@@ -1,2 +1,2 @@
 # bintest
-easily test binaries of any languge 
+easily test binaries of any language 
