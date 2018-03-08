@@ -1,0 +1,1 @@
+{"tests": [{"name": "sub", "inputs": ["10", "5"], "output": "exp.txt"}], "bin": "sub"}
