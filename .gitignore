@@ -1,1 +1,4 @@
 .DS_Store
+tests/add/add
+tests/sub/nimcache/
+tests/sub/sub

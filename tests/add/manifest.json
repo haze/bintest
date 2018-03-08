@@ -1,1 +1,1 @@
-{"tests": [{"name": "add", "inputs": ["5", "5"], "output": "exp.txt"}], "bin": "add"}
+{"tests": [{"name": "1+1", "inputs": ["1", "1"], "output": "out.txt", "strip_ws": true}], "bin": "add"}

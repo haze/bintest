@@ -10,6 +10,6 @@ int main(int argv, char ** args) {
     return 2;
   } else {
     printf("%i\n", toDigit(*args[1]) + toDigit(*args[2]));
-    return 1;
+    return 0;
   }
 }
